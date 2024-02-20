@@ -1,0 +1,42 @@
+/* Css styling starts here  */
+
+/* SUBSCRIBE BUTTON  */
+
+.subscribe-button{
+  background-color: rgb(181, 24, 24);
+  color: white;
+  border: none;
+  height: 32px;
+  width: 105px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.joining-button{
+
+  background-color: white;
+  border-color: rgb(83, 83, 219);
+  border-style: solid;
+  border-width: 1px;
+  color: rgb(83, 83, 219);
+  height: 32px;
+  width: 62px;
+  border-radius: 3px;
+  cursor: pointer;
+
+}
+
+.Tweet-button{
+
+  background-color: rgb(45, 66, 225);
+  color: white;
+  border: none;
+  height: 32px;
+  width: 72px;
+  margin-left: 8px;
+  border-radius: 32px;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 15px;
+}

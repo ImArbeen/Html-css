@@ -1,0 +1,48 @@
+.uber-button{
+  background-color: black;
+  color: white;
+  width: 100px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  margin-left: 8px ;
+  margin-right: 8px;
+  
+
+}
+
+.uber-button:hover{
+
+opacity: 0.7;
+
+}
+.uber-button:active{
+
+  opacity: 0.5;
+}
+
+
+.addToCart-button{
+
+  background-color: rgb(248, 188, 49);
+  height: 30px;
+  width: 160px;
+  border: none;
+  border-radius: 60px;
+  margin-right:  8px;;
+
+
+
+}
+.signup-button{
+
+  background-color: rgb(47, 189, 85);
+  height: 30px;
+  width: 90px;
+  border: none;
+  border-radius: 6px;
+  color: white;
+
+
+  
+}
